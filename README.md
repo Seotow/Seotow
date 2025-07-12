@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there! 👋 I'm Seotow
 
-<!--
-**Seotow/Seotow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;I'm+a+passionate+developer;Always+learning+new+technologies&font=Roboto&size=24&duration=3000&pause=1000&center=true&width=500&height=50&color=58a6ff" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+## 🎵 Currently Listening To
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <iframe src="https://open.spotify.com/embed/track/0tgVpDi06FyKpA1z0VMD4v?utm_source=generator&theme=0" width="352" height="152" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>
+
+---
