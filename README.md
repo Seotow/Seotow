@@ -7,7 +7,7 @@
 ## 🎵 Currently Listening To
 
 <p dir="auto">
-    <a href="https://open.spotify.com/user/5nrsoi4yzxzcc7mtbj53ab2mo" rel="nofollow">
+    <a href="https://open.spotify.com/user/5nrsoi4yzxzcc7mtbj53ab2mo" rel="nofollow" target="_blank">
     <img
       src="https://spotify-playing-woad.vercel.app/api/spotify/?background_color=0d1117&border_color=ffffff"
       alt="My Spotify Playing" 
